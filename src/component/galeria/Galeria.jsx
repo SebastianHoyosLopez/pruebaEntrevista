@@ -8,7 +8,7 @@ const Galeria = () => {
         <h1>Galeria</h1>
         <div className="container contenedor">
           <div className="row">
-            <div className="col-8">
+            <div className="col-8 p-0">
               <div className="fila">
                 <div className="colum-2-4">
                   <img src="https://i.imgur.com/TlEUBHG.jpg" alt="1" />
@@ -26,7 +26,7 @@ const Galeria = () => {
                 </div>
               </div>
             </div>
-            <div className="col-4 sola">
+            <div className="col-4 p-0">
               <img src="https://i.imgur.com/TlEUBHG.jpg" alt="1" />
             </div>
           </div>
