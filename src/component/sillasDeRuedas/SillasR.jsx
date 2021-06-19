@@ -7,8 +7,8 @@ const SillasR = () => {
     <>
       <div className="container">
         <img
-          style={{ marginTop: "10px", opacity: "0.5" }}
-          className="img"
+          style={{  opacity: "0.5"}}
+          className="imgpaisaje"
           src="https://imgur.com/MWJYC6x.jpg"
         />
       </div>
