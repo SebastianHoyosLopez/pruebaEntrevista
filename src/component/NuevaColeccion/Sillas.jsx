@@ -4,11 +4,10 @@ import "./sillas.css";
 
 const Sillas = () => {
   return (
-    <div className="container card">
-      <h3>NUEVA COLECCIÓN</h3>
-      <div className="row">
+    <div className="container">
+      <div className="row" style={{ marginLeft: "10px"}}>
         <div className="col-3">
-          <Card style={{ width: "14rem" }}>
+          <Card style={{ width: "14rem"}}>
             <Card.Img
               width="100px"
               variant="top"

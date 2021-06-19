@@ -13,7 +13,8 @@ function App() {
       <NavbarHome />
       <>
         <ImgHome />
-        <CarouselHome/>
+        <CarouselHome />
+        <h2 className="text-center mt-5">NUEVA COLECCIÓN</h2>
         <Sillas />
         <Galeria />
         <SillasR />
