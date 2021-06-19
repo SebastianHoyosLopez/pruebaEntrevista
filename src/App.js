@@ -5,6 +5,7 @@ import NavbarHome from "./component/navbar/NavbarHome";
 import Sillas from "./component/NuevaColeccion/Sillas";
 import SillasR from "./component/sillasDeRuedas/SillasR";
 import CarouselHome from "./component/imagenesCarousel/CarouselHome";
+import Galeria from "./component/galeria/Galeria";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <ImgHome />
         <CarouselHome/>
         <Sillas />
+        <Galeria />
         <SillasR />
       </>
       <FooterHome />
