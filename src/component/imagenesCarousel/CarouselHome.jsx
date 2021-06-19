@@ -8,21 +8,21 @@ const CarouselHome = () => {
   const settings = {
     dots: false,
     infinite: true,
-    speed: 500,
-    slidesToShow: 4,
+    speed: 5000,
+    slidesToShow: 6,
     slidesToScroll: 4,
     arrows: false,
     centerMode: true,
   };
 
   return (
-    <div className="container mt-4">
+    <div className="mt-4">
       <Slider {...settings}>
         <div className="img-container">
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/r3Snuy0.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -30,7 +30,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/x0R7oVQ.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -38,7 +38,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/r3Snuy0.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -46,7 +46,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/jVXTaUD.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -54,7 +54,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/gU5Atzg.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -62,7 +62,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/r3Snuy0.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -70,7 +70,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/jVXTaUD.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -78,7 +78,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/gU5Atzg.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -86,7 +86,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/jVXTaUD.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -94,7 +94,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/gU5Atzg.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -102,7 +102,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/r3Snuy0.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>
@@ -110,7 +110,7 @@ const CarouselHome = () => {
           <img
             title="Lorem ipusm"
             className="img-fluid"
-            src="http://lorempixel.com/400/200/"
+            src="https://imgur.com/gU5Atzg.jpg"
           />
           <div className="text-center">Lorem ipsum</div>
         </div>

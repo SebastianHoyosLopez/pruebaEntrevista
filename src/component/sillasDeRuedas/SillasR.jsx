@@ -7,7 +7,7 @@ const SillasR = () => {
     <>
       <div className="container">
         <img
-          style={{  opacity: "0.5"}}
+          style={{ opacity: "0.5"}}
           className="imgpaisaje"
           src="https://imgur.com/MWJYC6x.jpg"
         />
